@@ -1,0 +1,2 @@
+# Lake build artifacts and downloaded dependency packages (several GB): rebuild with `lake build`
+.lake/
